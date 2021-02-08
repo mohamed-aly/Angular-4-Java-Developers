@@ -2,37 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2716ee1-dfc1-44dc-85f2-987b2e17afe2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/frontend/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612789590020</updated>
-      <workItem from="1612789591263" duration="812000" />
+      <workItem from="1612789591263" duration="1683000" />
     </task>
     <task id="LOCAL-00001" summary="backend added">
       <created>1612789677742</created>
@@ -104,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612789677742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="frontend added">
+      <created>1612790659214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612790659214</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,16 +94,17 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="backend added" />
-    <option name="LAST_COMMIT_MESSAGE" value="backend added" />
+    <MESSAGE value="frontend added" />
+    <option name="LAST_COMMIT_MESSAGE" value="frontend added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="210" y="8" key="CommitChangelistDialog2" timestamp="1612789676824">
+    <state x="210" y="8" key="CommitChangelistDialog2" timestamp="1612790658109">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="210" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612789676824" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1612789679408">
+    <state x="210" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612790658109" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1612790662097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612789679408" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612790662097" />
   </component>
 </project>
