@@ -1,12 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2716ee1-dfc1-44dc-85f2-987b2e17afe2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oCTUkbxdqkznUfstFuQsZhkd52" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -19,10 +73,61 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2716ee1-dfc1-44dc-85f2-987b2e17afe2" name="Default Changelist" comment="" />
+      <created>1612789590020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612789590020</updated>
+      <workItem from="1612789591263" duration="812000" />
+    </task>
+    <task id="LOCAL-00001" summary="backend added">
+      <created>1612789677742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612789677742</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/frontend/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="backend added" />
+    <option name="LAST_COMMIT_MESSAGE" value="backend added" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="210" y="8" key="CommitChangelistDialog2" timestamp="1612789657330">
+    <state x="210" y="8" key="CommitChangelistDialog2" timestamp="1612789676824">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="210" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612789657330" />
+    <state x="210" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612789676824" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1612789679408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612789679408" />
   </component>
 </project>
